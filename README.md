@@ -1,6 +1,6 @@
 [![MasterHead](https://www.linkpicture.com/q/Green-Vibrant-Professional-Data-Analyst-LinkedIn-Banner-2.png)](https://www.linkedin.com/in/parthivi-thakore/)
 <h1 align="center">Hi 👋, I'm Parthivi Thakore</h1>
-<h3 align="center">Grounded and solution-oriented Computer Science Enthusiast with a wide variety of technical skills. Adept at motivating self and others. Passionate about Android</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.linkpicture.com/q/Parthivi_photo-1.jpg">
 
 

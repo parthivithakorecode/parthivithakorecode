@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkpicture.com/q/Green-Vibrant-Professional-Data-Analyst-LinkedIn-Banner-8.png)](https://www.linkedin.com/in/parthivi-thakore/)
+[![MasterHead](https://www.linkpicture.com/q/LinkedIn-Banner-1.png)](https://www.linkedin.com/in/parthivi-thakore/)
 <h1 align="center">Hi 👋, I'm Parthivi Thakore</h1>
 
 <img align="right" alt="Coding" width="400" src="https://www.linkpicture.com/q/LPic640d70faa8f322038440785.jpg">
